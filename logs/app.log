@@ -1,0 +1,14 @@
+2024-12-22 17:19:53 INFO  App:472 - Starting application
+2024-12-22 17:19:53 INFO  App:476 - Application started
+2024-12-22 17:19:53 INFO  App:38 - Initializing application UI
+2024-12-22 17:19:53 DEBUG App:39 - Setting up UI components
+2024-12-22 17:19:54 DEBUG App:83 - Adding action listeners
+2024-12-22 17:19:54 INFO  App:101 - Application UI initialized successfully
+2024-12-22 17:20:10 INFO  App:89 - Open button clicked
+2024-12-22 17:32:28 INFO  Application:461 - Starting application
+2024-12-22 17:32:28 INFO  Application:50 - Initializing application UI
+2024-12-22 17:32:28 DEBUG Application:51 - Setting up UI components
+2024-12-22 17:32:28 DEBUG Application:97 - Adding action listeners
+2024-12-22 17:32:28 INFO  Application:115 - Application UI initialized successfully
+2024-12-22 17:32:33 DEBUG Application:203 - Add button clicked
+2024-12-22 17:32:33 INFO  Application:211 - Film "Название фильма" added successfully
